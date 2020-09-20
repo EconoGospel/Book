@@ -1,0 +1,4 @@
+
+## Creation and Spread of Information via Biological Evolution
+
+"Processes of selective evolution" can be said to have created two mechanisms for creating two types of orders/"enduring structures", biological and social. The biological order is created via the well-known mechanism of 'biological evolution' with genes being like the sentences which store the information necessary to create/coordinate life/order. Mutations cause new genes and thus new information to arise which leads to a different life-form which is then 'naturally selected' as it inadvertently competes with others, with the winner reproducing more and thus passing on more copies of the better-adapted/"fitter" genes/information/design to future generations.

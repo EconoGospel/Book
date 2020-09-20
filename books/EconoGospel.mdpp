@@ -1,0 +1,48 @@
+!INCLUDE "../snippets/title.md"
+
+!INCLUDE "../snippets/preface.md"
+
+!INCLUDE "../snippets/Intro5.md"
+!INCLUDE "../snippets/bio_and_social.md"
+!INCLUDE "../snippets/InfoBio.md"
+!INCLUDE "../snippets/MoreComplexMoreInfo.md"
+
+
+## Economics
+
+!INCLUDE "../snippets/production-consumption.md"
+
+!INCLUDE "../snippets/Money1.md"
+
+!INCLUDE "../snippets/TradeMoney.md"
+!INCLUDE "../snippets/Competition.md"
+!INCLUDE "../snippets/NoSocialism.md"
+!INCLUDE "../snippets/morals.md"
+!INCLUDE "../snippets/Government.md"
+!INCLUDE "../snippets/Savings-Hayek.md"
+!INCLUDE "../snippets/keynes.md"
+!INCLUDE "../snippets/regulations.md"
+!INCLUDE "../snippets/patents.md"
+!INCLUDE "../snippets/immigration.md"
+
+## Hayekian Cultural Evolution
+
+!INCLUDE "../snippets/hayekian.md"
+!INCLUDE "../snippets/private-governance.md"
+!INCLUDE "../snippets/short-antisemitism.md"
+
+### The Environment
+
+
+!INCLUDE "../snippets/env_pollution.md"
+
+!INCLUDE "../snippets/env_species.md"
+
+
+!INCLUDE "../snippets/militarism.md"
+!INCLUDE "../snippets/cultural-lost-apes.md"
+!INCLUDE "../snippets/cultural-einstein-and-lenin.md"
+!INCLUDE "../snippets/nutrition.md"
+
+!INCLUDE "../snippets/conclusion.md"
+!INCLUDE "../snippets/fix-world.md"

@@ -1,0 +1,3 @@
+
+
+Our freedom to choose transforms billions of free people into a global super-computer where all companies are motivated to innovate and learn from each other thus inadvertently cooperate to discover the best information with which to serve customers and reorder all of mankind. Freedom and competition, not coercive competition-immune government monopoly by 'experts', is what made America the greatest country on earth. Mises and Hayek saved us from Communism, now we must save ourselves from Coromunism by showing how “Freedom is The Ultimate Algorithm”!
