@@ -39,7 +39,7 @@ We must become and inspire others to be "true friends of mankind", as one of Mis
 
 >"As should be increasingly clear, economics is a science which can make possible the construction of a social and political system in which human success is a feature of normal, everyday life everywhere. It is truly the humanitarian science, and only those who have studied it well and who are prepared to implement its teachings deserve to be called friends of mankind. The most important charity which true friends of mankind can pursue is to disseminate knowledge of this vital subject as widely and as deeply [as they know how.”](http://www.capitalism.net/CAPITALISM_Internet.pdf)
 
-In a way this book serves two purposes, it helps the reader understand how the world works, and by being a collaborative project similar to the Linux operating system, it can be constantly refined/improved by many who will be more motivated to spread the ideas since they too are/can be contributors.
+In a way this book can serve two purposes, it helps the reader understand how the world works, and by being a collaborative project similar to the Linux operating system, it can be constantly refined/improved by many who will be more motivated to spread the ideas since they too are/can be contributors.
 
 
 This is an Open Source book which anyone can contribute to by going to our github repository at https://github.com/EconoGospel/Book
