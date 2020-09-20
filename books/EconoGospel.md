@@ -1,6 +1,6 @@
 
 
-# Mises and Hayek or Bust: Avoiding Extinction by Economic Ignorance [Coronavirus ed.]
+# The EconoGospel: Salvation through Economic Education
 
 <img src="../images/hayek_quote.jpeg" alt="Hayek Quote"
 	title="Hayek Quote" width="750" height="300" />
