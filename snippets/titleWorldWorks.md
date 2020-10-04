@@ -1,6 +1,6 @@
 
 
-# How the world works : A Contemporary introduction to Nobel Laureate in Economics F.A. Hayek
+# How the world works : The Simple Evolutionary Explanation
 
 <img src="../images/hayek_quote.jpeg" alt="Hayek Quote"
 	title="Hayek Quote" width="750" height="300" />
